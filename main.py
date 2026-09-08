@@ -18,7 +18,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="R4J M1SHR4",
+    page_title="MASOOM E2E SERVER",
     page_icon="🔥",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1041,4 +1041,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">MADE WITH ❤️ BY R4J M1SHR4 | © 2025</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">MADE WITH ❤️ BY MASOOM SERVER CREATOR | © 2025</div>', unsafe_allow_html=True)
